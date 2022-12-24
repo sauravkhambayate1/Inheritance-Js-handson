@@ -1,8 +1,8 @@
 // 1.solutions
 
 const parent = {
-    firstName: `nouman`,
-    lastName: `mullaji`,
+    firstName: `saurav`,
+    lastName: `khambayate`,
     fullname() {
       return (`${this.firstName} ${this.lastName}`)
     }
@@ -16,8 +16,8 @@ const parent = {
   // 2.solutions
   
   function ABC() {
-    this.firstName = "nouman"
-    this.lastName = "mullaji"
+    this.firstName = "saurav"
+    this.lastName = "khambayate"
   
     ABC.prototype.age = "23"
     ABC.prototype.hobby = "cricket,tracking"
@@ -50,7 +50,7 @@ const parent = {
   
   //4.solution
   var obj = {
-    name: "nouman",
+    name: "saurav",
     course: `full-stack`,
     collge: `GIT`
   
